@@ -1,4 +1,4 @@
-# http4s-schema-registry
+# http4s-schema-registry <img src="docs/img/logo.svg" align="right" height="130" alt="" />
 
 Client for schema registries implementing the [Confluent Schema Registry REST API](https://docs.confluent.io/platform/current/schema-registry/develop/api.html), like [Confluent Schema Registry](https://github.com/confluentinc/schema-registry) and [Karapace](https://github.com/Aiven-Open/karapace).
 
